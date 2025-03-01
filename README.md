@@ -45,7 +45,7 @@ Want to showcase your creativity? Follow these steps to contribute:
 If you've added a game, **list your GitHub Pages link here** so it can be featured on the main index page! 🎉  
 
 📌 **Example:**  
-- [Your Game Name](https://your-username.github.io/your-game/) – A fun and exciting game!  
+- [Your Game Name](https://maddakam-mallikarjuna.github.io/your-game/) – A fun and exciting game!  
 
 ---
 
